@@ -1,0 +1,41 @@
+/* Page 1 */
+
+position: relative;
+width: 393px;
+height: 852px;
+
+background: #FFFFFF;
+/* Frame Shadow */
+box-shadow: 105px 198px 90px rgba(0, 0, 0, 0.03), 59px 111px 76px rgba(0, 0, 0, 0.09), 26px 49px 56px rgba(0, 0, 0, 0.15), 7px 12px 31px rgba(0, 0, 0, 0.18);
+border-radius: 30px;
+
+
+/* Page 2 */
+
+position: relative;
+width: 393px;
+height: 852px;
+
+background: #FFFFFF;
+/* Frame Shadow */
+box-shadow: 105px 198px 90px rgba(0, 0, 0, 0.03), 59px 111px 76px rgba(0, 0, 0, 0.09), 26px 49px 56px rgba(0, 0, 0, 0.15), 7px 12px 31px rgba(0, 0, 0, 0.18);
+border-radius: 30px;
+
+
+/* Your workout partner */
+
+position: absolute;
+width: 159px;
+height: 116px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 24px;
+/* or 60% */
+display: flex;
+align-items: center;
+
+color: #7E0041;
+
